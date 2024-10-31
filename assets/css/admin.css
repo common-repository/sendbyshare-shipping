@@ -1,0 +1,9 @@
+.order-status.status-delivering {
+    background: #79ec79;
+    color: #5b841b;
+}
+
+.order-status.status-dropped {
+    background: #79ec79;
+    color: #000e14;
+}
